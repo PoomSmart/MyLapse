@@ -1,0 +1,8 @@
+Package: org.thebigboss.mylapse
+Name: MyLapse
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: so
+Author: PoomSmart
+Section: Tweaks
